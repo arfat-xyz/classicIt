@@ -1,35 +1,35 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/success/.9391eba20319ffc09cbdf697e66e6aa2e63dcc0e-audit.json",
+  "files": [
+    {
+      "date": 1703254762845,
+      "name": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/success/success-2023-12-22-20.log",
+      "hash": "e66064f67776f784f8600ea24a36fd08143fa8d11b1b2389c084bc747d81a614"
     },
-    "auditLog": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/success/.9391eba20319ffc09cbdf697e66e6aa2e63dcc0e-audit.json",
-    "files": [
-        {
-            "date": 1703254762845,
-            "name": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/success/success-2023-12-22-20.log",
-            "hash": "e66064f67776f784f8600ea24a36fd08143fa8d11b1b2389c084bc747d81a614"
-        },
-        {
-            "date": 1703258392220,
-            "name": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/success/success-2023-12-22-21.log",
-            "hash": "7e48355b3662efe35b258648400bf671d60e2063a772020da9ddbd6eaa148057"
-        },
-        {
-            "date": 1703317892611,
-            "name": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/success/success-2023-12-23-13.log",
-            "hash": "ee8c005cb5324ab21c1f8ceeeb8536093c277b033d497f629bc9f22b4a989426"
-        },
-        {
-            "date": 1703318402322,
-            "name": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/success/success-2023-12-23-14.log",
-            "hash": "5ee74239943ca1c3f72852f958a33d897f565f5844c5f1252746803fb5dd159b"
-        },
-        {
-            "date": 1703324262727,
-            "name": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/success/success-2023-12-23-15.log",
-            "hash": "c582d02d1ee65e05459aadd1c721636e7b78ebd1933965317b373b794c7aa7e5"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1703258392220,
+      "name": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/success/success-2023-12-22-21.log",
+      "hash": "7e48355b3662efe35b258648400bf671d60e2063a772020da9ddbd6eaa148057"
+    },
+    {
+      "date": 1703317892611,
+      "name": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/success/success-2023-12-23-13.log",
+      "hash": "ee8c005cb5324ab21c1f8ceeeb8536093c277b033d497f629bc9f22b4a989426"
+    },
+    {
+      "date": 1703318402322,
+      "name": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/success/success-2023-12-23-14.log",
+      "hash": "5ee74239943ca1c3f72852f958a33d897f565f5844c5f1252746803fb5dd159b"
+    },
+    {
+      "date": 1703324262727,
+      "name": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/success/success-2023-12-23-15.log",
+      "hash": "c582d02d1ee65e05459aadd1c721636e7b78ebd1933965317b373b794c7aa7e5"
+    }
+  ],
+  "hashType": "sha256"
 }

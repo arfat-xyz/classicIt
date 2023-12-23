@@ -1,35 +1,35 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/error/.8889e61099335471b625dcb855e2091573d16fef-audit.json",
+  "files": [
+    {
+      "date": 1703254762850,
+      "name": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/error/error-2023-12-22-20.log",
+      "hash": "281444776f8b1aab9f1efdb4594c5c4df0bc7b3b4783749e6b6ef108a7ca7952"
     },
-    "auditLog": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/error/.8889e61099335471b625dcb855e2091573d16fef-audit.json",
-    "files": [
-        {
-            "date": 1703254762850,
-            "name": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/error/error-2023-12-22-20.log",
-            "hash": "281444776f8b1aab9f1efdb4594c5c4df0bc7b3b4783749e6b6ef108a7ca7952"
-        },
-        {
-            "date": 1703258392223,
-            "name": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/error/error-2023-12-22-21.log",
-            "hash": "3b8d5c2c6f7bfd606c4d4942057c7e0111b8a940f27accf644490591a49e0529"
-        },
-        {
-            "date": 1703317892618,
-            "name": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/error/error-2023-12-23-13.log",
-            "hash": "0ce1a79b7185c4c9d3293e2a6d72ed135a217ab839fd0c63f7e0228fa32758a0"
-        },
-        {
-            "date": 1703318402325,
-            "name": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/error/error-2023-12-23-14.log",
-            "hash": "cbde710b84beb7d5ba57cd152261ea34c3ed95c56d850304e1e7d879f165ddb4"
-        },
-        {
-            "date": 1703324262737,
-            "name": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/error/error-2023-12-23-15.log",
-            "hash": "1216df3d00d12e7fb9c1bd325b797b0697c44529183832c5a7845c9a62c6c952"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1703258392223,
+      "name": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/error/error-2023-12-22-21.log",
+      "hash": "3b8d5c2c6f7bfd606c4d4942057c7e0111b8a940f27accf644490591a49e0529"
+    },
+    {
+      "date": 1703317892618,
+      "name": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/error/error-2023-12-23-13.log",
+      "hash": "0ce1a79b7185c4c9d3293e2a6d72ed135a217ab839fd0c63f7e0228fa32758a0"
+    },
+    {
+      "date": 1703318402325,
+      "name": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/error/error-2023-12-23-14.log",
+      "hash": "cbde710b84beb7d5ba57cd152261ea34c3ed95c56d850304e1e7d879f165ddb4"
+    },
+    {
+      "date": 1703324262737,
+      "name": "/home/arfat/Desktop/Practice/Classic It & Sky Mart Ltd/logs/winston/error/error-2023-12-23-15.log",
+      "hash": "1216df3d00d12e7fb9c1bd325b797b0697c44529183832c5a7845c9a62c6c952"
+    }
+  ],
+  "hashType": "sha256"
 }

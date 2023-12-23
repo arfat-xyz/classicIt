@@ -7,7 +7,6 @@ import handleCastError from '../../errors/handleCastError'
 import handleValidateError from '../../errors/handleValidateError'
 import handleZodError from '../../errors/handleZodError'
 import { IGenericErrorMessage } from '../../interface/errors'
-import { Logger } from '../../shared/logger'
 
 // global error handling
 const globalErrorHandler: ErrorRequestHandler = (error, req, res, next) => {
@@ -16,7 +15,7 @@ const globalErrorHandler: ErrorRequestHandler = (error, req, res, next) => {
   // eslint-disable-next-line no-unused-expressions
   config.env === 'development'
     ? console.log('😀 GlobalErrorHandler', error)
-    : Logger.errorLogger.error('😀 GlobalErrorHandler', error)
+    : console.log('😀 GlobalErrorHandler', error)
   let statusCode: string | number = 500
   let message = 'Something went wrong'
   let errorsMessages: IGenericErrorMessage[] = []
